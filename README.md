@@ -39,3 +39,4 @@ Dataset déséquilibré résolu avec **SMOTE** :
 
 ## 👨‍💻 Auteur
 **God-win** — Étudiant en 1ère année IA/Informatique
+LinkedIn:https://www.linkedin.com/posts/god-win-fadonougbo-750624379_machinelearning-deeplearning-pytorch-ugcPost-7453856795405668353-2YJu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF2H2SwBjdj911eA9GbbGh-AXePrlNCqxqE
