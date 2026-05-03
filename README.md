@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Auteur
 **God-win** — Étudiant en IA/Informatique
-[LinkedIn](ton_lien_linkedin)
+[LinkedIn](www.linkedin.com/in/god-win-fadonougbo-750624379)
 
 ---
 
